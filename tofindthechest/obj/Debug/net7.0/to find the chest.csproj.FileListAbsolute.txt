@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\to find the chest\obj\Debug\net7.0\to find the chest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\to find the chest\obj\Debug\net7.0\to find the chest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\to find the chest\obj\Debug\net7.0\to find the chest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\to find the chest\obj\Debug\net7.0\to find the chest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\tofindthechest\bin\Debug\net7.0\to find the chest.exe
+C:\Users\Lenovo\Desktop\tofindthechest\bin\Debug\net7.0\to find the chest.deps.json
+C:\Users\Lenovo\Desktop\tofindthechest\bin\Debug\net7.0\to find the chest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\tofindthechest\bin\Debug\net7.0\to find the chest.dll
+C:\Users\Lenovo\Desktop\tofindthechest\bin\Debug\net7.0\to find the chest.pdb
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.dll
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\refint\to find the chest.dll
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.pdb
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\to find the chest.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\tofindthechest\obj\Debug\net7.0\ref\to find the chest.dll
