@@ -183,7 +183,7 @@ if (fmove1 == "3")
 if ((secondmove == "Open")  && (key = true))
 {
   Console.WriteLine("You open the chest! Inside there is nothing");
-  Console.WriteLine("Rewarding the player if the friends we made along the way");
+  Console.WriteLine("Rewarding the player is the friends we made along the way");
   break;
 }
 
